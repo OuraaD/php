@@ -1,0 +1,7 @@
+2 pages : contact et accueil
+Même header et footer
+découper et faire des inclusions pour éviter les répétitions
+Sauf que dans les 2 pages je veux un titre différent :
+Bienvenu sur la page d'accueil
+Bienvenu sur la page de contact
+ Lien cliquable qui va s'appeler get.php
